@@ -87,8 +87,8 @@ and then while developing
 
 ## Check the file size of the generate tailwind.css file!
 
-For the included example it under 4 KB now!
-Almost 400% less then before!
+For the included example css file is under 4 KB now!
+Almost 400% less then for full tailwind code alone without the extra custom classes!
 
 _Happy coding_
 
